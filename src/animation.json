@@ -1,0 +1,193 @@
+{
+    "sheetsById": {
+      "Scene": {
+        "staticOverrides": {
+          "byObject": {
+            "Model Morph": {
+              "rotation": 5
+            },
+            "Camera": {
+              "position": {
+                "z": -7.099999999999994
+              }
+            }
+          }
+        },
+        "sequence": {
+          "subUnitsPerUnit": 30,
+          "length": 31.7,
+          "type": "PositionalSequence",
+          "tracksByObject": {
+            "Camera": {
+              "trackData": {
+                "jBRzOiErTs": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": [
+                    {
+                      "id": "gVV_QVImIB",
+                      "position": 0,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 1.4000000000000057
+                    },
+                    {
+                      "id": "f-dK6rZDks",
+                      "position": 12.1,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": -188.9
+                    }
+                  ]
+                },
+                "HQxW2zsgv2": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": [
+                    {
+                      "id": "wWPgsYBbZZ",
+                      "position": 6.667,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": -66.8
+                    },
+                    {
+                      "id": "3icfSPKV-o",
+                      "position": 12.067,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": -114.00000000000001
+                    }
+                  ]
+                },
+                "rEetGBRwzs": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": []
+                },
+                "DgDfKIKOGT": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": []
+                },
+                "xPMjGVMX-P": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": []
+                },
+                "LcrzBFDvSF": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": []
+                }
+              },
+              "trackIdByPropPath": {
+                "[\"position\",\"z\"]": "jBRzOiErTs",
+                "[\"position\",\"y\"]": "HQxW2zsgv2",
+                "[\"position\",\"x\"]": "rEetGBRwzs",
+                "[\"rotation\",\"x\"]": "DgDfKIKOGT",
+                "[\"rotation\",\"y\"]": "xPMjGVMX-P",
+                "[\"rotation\",\"z\"]": "LcrzBFDvSF"
+              }
+            },
+            "Model Morph": {
+              "trackData": {
+                "ZAZAX4Rw1g": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": [
+                    {
+                      "id": "OsIDC3WpHF",
+                      "position": 0,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 0
+                    },
+                    {
+                      "id": "4YR5BMAnTJ",
+                      "position": 31.7,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 3.4
+                    }
+                  ]
+                },
+                "c_TajZZSvo": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": [
+                    {
+                      "id": "9J0NWdS_Ri",
+                      "position": 7.9,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 0
+                    },
+                    {
+                      "id": "bkfRXZl0YW",
+                      "position": 14.067,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 1
+                    },
+                    {
+                      "id": "uB1VCgQd2-",
+                      "position": 21.2,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 0
+                    }
+                  ]
+                }
+              },
+              "trackIdByPropPath": {
+                "[\"rotation\"]": "ZAZAX4Rw1g",
+                "[\"morph\"]": "c_TajZZSvo"
+              }
+            }
+          }
+        }
+      }
+    },
+    "definitionVersion": "0.4.0",
+    "revisionHistory": [
+      "MeHgPZGZ8g0b3JGF"
+    ]
+  }
