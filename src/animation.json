@@ -8,7 +8,13 @@
             },
             "Camera": {
               "position": {
-                "z": -7.099999999999994
+                "z": -7.099999999999994,
+                "x": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
               }
             }
           }
@@ -46,6 +52,18 @@
                         0
                       ],
                       "value": -188.9
+                    },
+                    {
+                      "id": "5VrnJuexPe",
+                      "position": 31.7,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 1.4000000000000057
                     }
                   ]
                 },
@@ -75,33 +93,25 @@
                         0
                       ],
                       "value": -114.00000000000001
+                    },
+                    {
+                      "id": "6a5aDqBveA",
+                      "position": 31.7,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": -66.8
                     }
                   ]
-                },
-                "rEetGBRwzs": {
-                  "type": "BasicKeyframedTrack",
-                  "keyframes": []
-                },
-                "DgDfKIKOGT": {
-                  "type": "BasicKeyframedTrack",
-                  "keyframes": []
-                },
-                "xPMjGVMX-P": {
-                  "type": "BasicKeyframedTrack",
-                  "keyframes": []
-                },
-                "LcrzBFDvSF": {
-                  "type": "BasicKeyframedTrack",
-                  "keyframes": []
                 }
               },
               "trackIdByPropPath": {
                 "[\"position\",\"z\"]": "jBRzOiErTs",
-                "[\"position\",\"y\"]": "HQxW2zsgv2",
-                "[\"position\",\"x\"]": "rEetGBRwzs",
-                "[\"rotation\",\"x\"]": "DgDfKIKOGT",
-                "[\"rotation\",\"y\"]": "xPMjGVMX-P",
-                "[\"rotation\",\"z\"]": "LcrzBFDvSF"
+                "[\"position\",\"y\"]": "HQxW2zsgv2"
               }
             },
             "Model Morph": {
@@ -123,7 +133,7 @@
                     },
                     {
                       "id": "4YR5BMAnTJ",
-                      "position": 31.7,
+                      "position": 17.133,
                       "connectedRight": true,
                       "handles": [
                         0.5,
@@ -132,6 +142,18 @@
                         0
                       ],
                       "value": 3.4
+                    },
+                    {
+                      "id": "mLN108Q14Q",
+                      "position": 31.7,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 0
                     }
                   ]
                 },
@@ -188,6 +210,7 @@
     },
     "definitionVersion": "0.4.0",
     "revisionHistory": [
+      "z2XH4t8Fs1yPpJca",
       "MeHgPZGZ8g0b3JGF"
     ]
   }
